@@ -1,0 +1,18 @@
+#banner {
+  border-top: solid 1px #222628;
+	box-shadow: inset 0px 1px 0px 0px #3e484a;
+	padding: 35px 0 35px 0;
+	color: #fff;
+}
+
+#banner .bordered-feature-image {
+	margin-bottom: 0;
+}
+
+#banner p {
+    font-size: 2em;
+	font-weight: 200;
+	line-height: 1.25em;
+	padding-right: 1em;
+	margin: 0 0 1em 0;
+	}
